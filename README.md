@@ -1,5 +1,5 @@
 # service-worker-cache
-Demonstration of Service Worker Offline Cache 
+Demonstration of Service Worker Offline Cache. 
 
 ## How to run
 - Install Python 3.
